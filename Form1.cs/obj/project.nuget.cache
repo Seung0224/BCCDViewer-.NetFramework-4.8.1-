@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kb8w70fEx5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\제이스텍\\source\\repos\\Form1.cs\\Form1.cs\\Form1.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\제이스텍\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.22.1\\microsoft.ml.onnxruntime.1.22.1.nupkg.sha512",
+    "C:\\Users\\제이스텍\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.22.1\\microsoft.ml.onnxruntime.managed.1.22.1.nupkg.sha512",
+    "C:\\Users\\제이스텍\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\제이스텍\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\제이스텍\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\제이스텍\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
